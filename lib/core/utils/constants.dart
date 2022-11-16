@@ -1,0 +1,1 @@
+const kImageRoot = 'assets/images/';
