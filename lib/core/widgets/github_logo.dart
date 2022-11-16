@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
 class GithubLogo extends StatelessWidget {
   const GithubLogo({super.key});
 
@@ -20,4 +19,3 @@ class GithubLogo extends StatelessWidget {
     );
   }
 }
-
